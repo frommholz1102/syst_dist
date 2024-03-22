@@ -4,6 +4,8 @@ by Annika Frommholz
 
 This project offers a solution for providing and keeping track of folder and group IDs for the participants of an online survey.
 
+This project was initially implemented by Luzie Ahrens in this [repository](https://git.tu-berlin.de/luzie-ahrens/survey_ids). I extended the functionality. 
+
 ### Overview
 
 Sometimes when a questionaire is carried out, only a part of the dataset (for example audios or images) should be processed by the participants X. The completion then has to be distributed equally over all folders N. Additionally participants of different demografic groups N often have to be systematically distributed. This can get very complex very quickly. For example, when 1400 people of 12 different demographic groups have to rate all items from one of 105 different data folders. 
